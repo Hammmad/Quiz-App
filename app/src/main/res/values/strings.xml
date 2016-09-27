@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Q1">Q-1:  Pakistan resolution was passed in </string>
+    <string name="Q2">Q-2:  6th September is celebrated in Pakistan as a </string>
+    <string name="Q3">Q-3:  Quaid-e-Azam died in </string>
+    <string name="Q4">Q-4:  Who was the First President of Pakistan?</string>
+    <string name="Q5">Q-5:  Allama Iqbal was born at </string>
+    <string name="Q1R1">1947</string>
+    <string name="Q1R2">1945</string>
+    <string name="Q1R3">1940</string>
+    <string name="Q2R1">Independence Day</string>
+    <string name="Q2R2">Pakistan Day</string>
+    <string name="Q2R3">Defence Day</string>
+    <string name="Q3R1">1949</string>
+    <string name="Q3R2">1948</string>
+    <string name="Q3R3">1951</string>
+    <string name="Q4R1">Liaquat Ali Khan</string>
+    <string name="Q4R2">Quaid-e-Azam Muhammad Ali Jinnah</string>
+    <string name="Q4R3">Sir Syed Ahmed Khan</string>
+    <string name="Q5R1">Lahore</string>
+    <string name="Q5R2">Sialkot</string>
+    <string name="Q5R3">Multan</string>
+    <string name="description">(There are five questions in the Quiz and Each question contain 10 marks!)</string>
+
+
+</resources>
