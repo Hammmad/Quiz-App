@@ -152,6 +152,8 @@ public class MainActivity extends AppCompatActivity {
             answer = null;
         }
 
+
+
         if (answer != null && answer.equals(correctAnswer)) {
             mark += CORRECT_ANSWER_MARKS;
         }else if(answer == null){
